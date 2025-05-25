@@ -18,14 +18,4 @@ This repository contains the complete source code and associated assets for a pe
 
 ---
 
-## Project Structure
-
-```
-PersonalWebsite/
-├── assets/          # Directory containing images, icons, and other static assets
-├── css/             # Stylesheets governing the website's appearance
-├── js/              # JavaScript files enabling dynamic functionalities
-├── index.html       # Primary HTML document for the website
-└── README.md        # This documentation file
-```
 
