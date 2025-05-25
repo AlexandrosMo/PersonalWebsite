@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function() {
-    const text = "Full Stack Developer";
+    const text = "Software Engineer"; 
     const typedText = document.getElementById('typed-text');
     let i = 0;
     
